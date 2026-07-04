@@ -16,12 +16,12 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMustafaAliKhan85&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMakdev85&show_icons=true&theme=dark)
 
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMustafaAliKhan85&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Makdev85&theme=tokyonight)
 
 ---
 
