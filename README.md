@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Skills
-<img src="https://skillicons.dev/icons?i=linux,AWS,python,html,css,git,github,vscode" width="350"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,python,html,css,git,github,vscode" width="350"/>
 
 ---
 
