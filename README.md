@@ -20,9 +20,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-![GitHub Streak](https://streak-stats.demolab.com?user=Makdev85&theme=tokyonight)
-
 ---
 
 ## 💻 Most Used Languages
