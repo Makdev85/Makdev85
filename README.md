@@ -10,13 +10,13 @@
 ---
 
 ## 🎯 About Me
-☁️Aspiring Cloud & DevOps Engineer
-🐍Learning Python through hands-on projects
-🚀Exploring AWS, Docker, Kubernetes, Linux, Terraform, Ansible & Grafana
-⚙️Passionate about Cloud Infrastructure, Automation & DevOps
-🔧Hands-on with Git, GitHub, Linux & CI/CD fundamentals
-📚Building projects and continuously improving my technical skills
 
+☁️ Aspiring Cloud & DevOps Engineer  
+🐍 Learning Python through hands-on projects  
+🚀 Exploring AWS, Docker, Kubernetes, Linux, Terraform, Ansible & Grafana  
+⚙️ Passionate about Cloud Infrastructure, Automation & DevOps  
+🔧 Hands-on with Git, GitHub, Linux & CI/CD fundamentals  
+📚 Building projects and continuously improving my technical skills
 ---
 
 ## 🛠️ Tech Stack
