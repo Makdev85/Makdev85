@@ -21,11 +21,11 @@ I'm **Mohammed Mustafa Ali Khan**, a Computer Science Engineering graduate passi
 - ☁️ Building hands-on projects using **AWS**
 - 🐳 Working with **Docker & Kubernetes**
 - 🏗️ Automating infrastructure using **Terraform & CloudFormation**
-- ⚙️ Exploring **CI/CD pipelines with GitHub Actions**
+- ⚙️ Building **CI/CD pipelines with GitHub Actions**
 - 🐍 Using **Python & Bash** for automation
 - 📊 Monitoring infrastructure using **CloudWatch & Grafana**
-- 🐧 Comfortable working with **Linux, Git, GitHub & Nginx**
-- 🚀 Currently strengthening my **Cloud & DevOps engineering skills**
+- 🐧 Working with **Linux, Git, GitHub & Nginx**
+- 🚀 Continuously improving my **Cloud & DevOps engineering skills**
 
 ---
 
@@ -56,29 +56,27 @@ I'm **Mohammed Mustafa Ali Khan**, a Computer Science Engineering graduate passi
 ## 🚀 Featured Projects
 
 ### 🛡️ AWS Security Guardrails Automation
-Automated AWS security compliance checks using **Lambda, EventBridge, CloudTrail, EC2, EBS, IAM, CloudWatch, and Python (Boto3)**.
-
-### 📊 EC2 Monitoring with Grafana Cloud
-Built an EC2 monitoring setup using **AWS CloudWatch + Grafana Cloud**, including CPU monitoring and automated alerts.
+Automated AWS security compliance checks using **Lambda, EventBridge, CloudTrail, EC2, EBS, IAM, CloudWatch & Python (Boto3)**.
 
 ### 🐳 Docker CI/CD Pipeline
-Containerized applications with **Docker** and implemented automated build/deployment workflows using **GitHub Actions**.
+Built an automated CI/CD workflow using **Docker, Docker Hub, GitHub Actions & AWS EC2** for containerized application deployment.
 
 ### ☸️ Kubernetes Hands-on Labs
-Worked with **Deployments, Services, ReplicaSets, Init Containers, Persistent Volumes, PVCs, HPA, Metrics Server, and troubleshooting scenarios**.
+Implemented **Deployments, Services, ReplicaSets, Init Containers, PV/PVC, HPA, Metrics Server, scaling & troubleshooting scenarios**.
+
+### 📊 EC2 Monitoring with Grafana Cloud
+Built an EC2 monitoring and alerting setup using **AWS CloudWatch & Grafana Cloud**, including CPU monitoring and automated alerts.
 
 ### 🏗️ Infrastructure as Code
-Provisioned AWS infrastructure using **Terraform and AWS CloudFormation**, including VPCs, EC2, Security Groups, ALB, Auto Scaling, S3, and networking components.
+Provisioned AWS infrastructure using **Terraform & CloudFormation**, including **VPC, EC2, Security Groups, ALB, Auto Scaling, S3 & networking components**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Makdev85&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makdev85&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Makdev85&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -86,17 +84,17 @@ Provisioned AWS infrastructure using **Terraform and AWS CloudFormation**, inclu
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Makdev85&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Makdev85&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Makdev85&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makdev85&theme=tokyonight" height="165" alt="Top Languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Makdev85&theme=tokyonight" height="165" alt="GitHub Stats"/>
 
 </div>
 
